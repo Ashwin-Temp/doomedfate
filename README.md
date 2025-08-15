@@ -18,6 +18,6 @@ Built for those who wish to gaze into the abyss... and hear it whisper back.
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/doomed-fate-teller.git
-cd doomed-fate-teller
-pip install -r requirements.txt
+git clone https://github.com/Ashwin-Temp/doomedfate.git
+cd doomedfate
+
